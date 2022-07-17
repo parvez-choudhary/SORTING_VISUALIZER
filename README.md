@@ -1,0 +1,2 @@
+# SORTING_VISUALIZER
+ This is a simple sorting visualisation app built using the flutter framework. The user can select sorting  algorithms like Bubble sort, Selection sort, Insertion sort, Quick sort etc. to be visualised using an  array of vertically drawn lines on the screen. (Features: can change visualization speed, on screen  reset button, different colours vertical bars, Beautiful Splash Screen).
