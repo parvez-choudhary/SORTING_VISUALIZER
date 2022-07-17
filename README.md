@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can clearly see the splash screen at starting .After that the randomize bar representing an array shown default and we can tha choose Algorithm with as per our Concern and even Change the visualization Speed as well . 
+
+https://user-images.githubusercontent.com/109281535/179394485-a149afc1-cb4e-447f-91b3-fe0f43f1d577.mp4
 
 A few resources to get you started if this is your first Flutter project:
 
